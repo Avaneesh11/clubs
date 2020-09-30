@@ -378,9 +378,9 @@ SC Cambuur
 Arka Gdynia
 KS_Cracovia_(football)
 Górnik Zabrze
-
+Legia Warsaw
 Bruk-Bet Termalica Nieciecza
-
+Wisla Krakow
 
 
 ====================================
@@ -530,3 +530,4 @@ Yeni Malatyaspor
 Cardiff City F.C.
 Swansea City A.F.C.
 Newport County A.F.C.
+
